@@ -117,4 +117,4 @@ For questions, technical support, or feedback, please reach out through:
 ---
 
 ## **License**
-The Zytron Ecosystem is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
+The Zytron RS is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
